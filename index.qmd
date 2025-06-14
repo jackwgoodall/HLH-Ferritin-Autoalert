@@ -1,6 +1,5 @@
 ---
 title: "HLH diagnosis rate"
-author: "Jack Goodall"
 date: "2025-06-14"
 format:
   html:
@@ -15,6 +14,7 @@ editor: visual
 ---
 
 *Contact:*<a href="mailto:j.goodall@sheffield.ac.uk?subject=Frequentist%20Step%20pneumoniae"> j.goodall\@sheffield.ac.uk</a>
+
 
 ```{r global-setup, include=FALSE}
 if (!require("pacman", quietly = TRUE)) { install.packages("pacman") 
